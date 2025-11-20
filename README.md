@@ -120,14 +120,20 @@ Then open http://localhost:8000/web/index.html in your browser!
 # Install dependencies
 pip install -r requirements.txt
 
+# Initialize your monkey
+python src/cli.py init
+
+# View in web interface
+./start_web.sh
+
+# Evolve monkey manually
+python src/cli.py evolve --ai
+
+# Show monkey stats
+python src/cli.py show
+
 # Run tests
 pytest tests/
-
-# Evolve monkey locally
-python src/evolve.py
-
-# Generate monkey art
-python src/visualize.py
 ```
 
 ### Project Structure
@@ -142,12 +148,19 @@ forkMonkey/
 │   ├── genetics.py                # DNA and trait system
 │   ├── evolution.py               # AI-powered evolution
 │   ├── visualizer.py              # SVG monkey generator
-│   ├── network.py                 # Family tree tracking
+│   ├── storage.py                 # Data persistence
 │   └── cli.py                     # Command-line interface
+├── web/
+│   ├── index.html                 # Web interface
+│   ├── style.css                  # Modern blocky design
+│   ├── script.js                  # Interactive features
+│   └── serve.py                   # Local web server
 ├── tests/                         # Comprehensive tests
 ├── monkey_data/
+│   ├── dna.json                   # Monkey DNA
 │   ├── history.json               # Evolution history
-│   └── stats.json                 # Monkey statistics
+│   ├── stats.json                 # Monkey statistics
+│   └── monkey.svg                 # Visual representation
 └── README.md                      # This file (auto-updated)
 ```
 

@@ -232,13 +232,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 400px;
+    min-height: 500px;
+    aspect-ratio: 1;
     position: relative;
     box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
 }
 
 .monkey-container svg {
-    max-width: 100%;
+    max-width: 90%;
+    max-height: 90%;
+    width: auto;
     height: auto;
     filter: drop-shadow(0 0 20px rgba(0, 255, 136, 0.3));
     animation: float 3s ease-in-out infinite;

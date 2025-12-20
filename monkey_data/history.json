@@ -383,6 +383,22 @@
         "special": "none"
       },
       "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-12-20T13:39:10.837227",
+      "dna_hash": "ba0caeeaa2770060",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "neutral",
+        "accessory": "simple_hat",
+        "pattern": "diamonds",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
     }
   ]
 }

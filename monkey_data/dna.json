@@ -1,24 +1,24 @@
 {
-  "generation": 1,
-  "parent_id": null,
-  "dna_hash": "853a2d944a0cdb2d",
+  "generation": 2,
+  "parent_id": "853a2d944a0cdb2d",
+  "dna_hash": "61e4cd635f57625e",
   "mutation_count": 0,
-  "birth_timestamp": 138318,
+  "birth_timestamp": 317589,
   "traits": {
     "body_color": {
-      "value": "holographic",
-      "rarity": "legendary",
-      "gene_sequence": "56baee19"
+      "value": "silver",
+      "rarity": "uncommon",
+      "gene_sequence": "2066cd78"
     },
     "face_expression": {
-      "value": "surprised",
-      "rarity": "rare",
-      "gene_sequence": "0f873f07"
+      "value": "neutral",
+      "rarity": "common",
+      "gene_sequence": "374db983"
     },
     "accessory": {
-      "value": "none",
-      "rarity": "common",
-      "gene_sequence": "8f67e8db"
+      "value": "crown",
+      "rarity": "uncommon",
+      "gene_sequence": "fa89ebac"
     },
     "pattern": {
       "value": "diamonds",
@@ -26,9 +26,9 @@
       "gene_sequence": "e725e0b9"
     },
     "background": {
-      "value": "volcano",
-      "rarity": "rare",
-      "gene_sequence": "a35dd45b"
+      "value": "sunset",
+      "rarity": "common",
+      "gene_sequence": "5d4ff589"
     },
     "special": {
       "value": "none",
@@ -36,5 +36,5 @@
       "gene_sequence": "9f7c3055"
     }
   },
-  "rarity_score": 40.0
+  "rarity_score": 15.0
 }

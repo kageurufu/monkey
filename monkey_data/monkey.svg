@@ -51,15 +51,14 @@
 </defs>
 <rect width="400" height="400" fill="url(#sunset-gradient)"/>
 
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="#C0C0C0" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#holo-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="#C0C0C0" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="url(#holo-body)" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="#C0C0C0" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8E8E8" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="204" y="232" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="133" y="189" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="212" y="146" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="141" y="253" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="220" y="210" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="149" y="167" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="228" y="274" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="url(#holo-body)" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFFF" opacity="0.3"/>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -78,8 +77,8 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+<path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
+
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

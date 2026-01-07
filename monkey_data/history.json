@@ -831,6 +831,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: holographic \u2192 galaxy"
+    },
+    {
+      "timestamp": "2026-01-07T02:19:48.588538",
+      "dna_hash": "f5187fa9623bd856",
+      "generation": 2,
+      "mutation_count": 7,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "sleepy",
+        "accessory": "bandana",
+        "pattern": "gradient",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

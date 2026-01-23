@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "853a2d944a0cdb2d",
-  "dna_hash": "875d2b4380c3301f",
-  "mutation_count": 13,
+  "dna_hash": "8d289c19aa7e4175",
+  "mutation_count": 14,
   "birth_timestamp": 420687,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "399185f3"
     },
     "accessory": {
-      "value": "bandana",
-      "rarity": "common",
-      "gene_sequence": "eef7e9dc"
+      "value": "headphones",
+      "rarity": "uncommon",
+      "gene_sequence": "c1193660"
     },
     "pattern": {
       "value": "solid",
@@ -36,5 +36,5 @@
       "gene_sequence": "9f7c3055"
     }
   },
-  "rarity_score": 16.666666666666664
+  "rarity_score": 18.333333333333332
 }

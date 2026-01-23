@@ -74,7 +74,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
+<path d="M125 170 Q125 100 200 90 Q275 100 275 170" stroke="#333" stroke-width="8" fill="none"/><rect x="115" y="155" width="25" height="40" rx="5" fill="#333"/><rect x="260" y="155" width="25" height="40" rx="5" fill="#333"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

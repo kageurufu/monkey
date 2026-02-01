@@ -1231,6 +1231,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: solid \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-02-01T03:19:10.626992",
+      "dna_hash": "895bf26881bd525e",
+      "generation": 2,
+      "mutation_count": 19,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "sleepy",
+        "accessory": "headphones",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

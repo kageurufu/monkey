@@ -1263,6 +1263,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: purple \u2192 bronze"
+    },
+    {
+      "timestamp": "2026-02-03T02:48:05.008485",
+      "dna_hash": "b852d7e7ae08359e",
+      "generation": 2,
+      "mutation_count": 22,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "happy",
+        "accessory": "headphones",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: sleepy \u2192 happy"
     }
   ]
 }

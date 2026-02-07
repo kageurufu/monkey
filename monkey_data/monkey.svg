@@ -67,14 +67,10 @@
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="162" cy="185" r="12" fill="#3D2314"/>
-<circle cx="162" cy="185" r="6" fill="#000"/>
-<circle cx="166" cy="181" r="4" fill="white"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="238" cy="185" r="12" fill="#3D2314"/>
-<circle cx="238" cy="185" r="6" fill="#000"/>
-<circle cx="242" cy="181" r="4" fill="white"/>
+<ellipse cx="162" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="162" cy="187" rx="10" ry="5" fill="#3D2314"/>
+<ellipse cx="238" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="238" cy="187" rx="10" ry="5" fill="#3D2314"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>

@@ -1343,6 +1343,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: neutral \u2192 sleepy"
+    },
+    {
+      "timestamp": "2026-02-08T03:24:38.990056",
+      "dna_hash": "cf3ca6715bce20eb",
+      "generation": 2,
+      "mutation_count": 27,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "sleepy",
+        "accessory": "golden_crown",
+        "pattern": "stripes",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

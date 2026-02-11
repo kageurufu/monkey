@@ -67,10 +67,14 @@
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="8" fill="white"/>
-<ellipse cx="162" cy="187" rx="10" ry="5" fill="#3D2314"/>
-<ellipse cx="238" cy="185" rx="18" ry="8" fill="white"/>
-<ellipse cx="238" cy="187" rx="10" ry="5" fill="#3D2314"/>
+<ellipse cx="162" cy="185" rx="18" ry="20" fill="white"/>
+<circle cx="162" cy="185" r="12" fill="#3D2314"/>
+<circle cx="162" cy="185" r="6" fill="#000"/>
+<circle cx="166" cy="181" r="4" fill="white"/>
+<ellipse cx="238" cy="185" rx="18" ry="20" fill="white"/>
+<circle cx="238" cy="185" r="12" fill="#3D2314"/>
+<circle cx="238" cy="185" r="6" fill="#000"/>
+<circle cx="242" cy="181" r="4" fill="white"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>
@@ -79,7 +83,7 @@
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
 <polygon points="155,70 170,35 190,60 210,35 230,60 245,35 245,85 155,85" fill="#FFD700" stroke="#B8860B" stroke-width="3"/><circle cx="200" cy="45" r="8" fill="#E74C3C"/><circle cx="175" cy="55" r="5" fill="#3498DB"/><circle cx="225" cy="55" r="5" fill="#2ECC71"/>
-
+<text x="110" y="110" font-size="24" fill="#FFD700">✦</text><text x="290" y="110" font-size="24" fill="#FFD700">✦</text><text x="110" y="290" font-size="24" fill="#FFD700">✦</text><text x="290" y="290" font-size="24" fill="#FFD700">✦</text><text x="200" y="70" font-size="24" fill="#FFD700">✦</text>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>

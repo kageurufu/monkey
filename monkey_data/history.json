@@ -1503,6 +1503,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: special: sparkles \u2192 glow"
+    },
+    {
+      "timestamp": "2026-02-18T02:51:06.995690",
+      "dna_hash": "e76bed008b70b67e",
+      "generation": 2,
+      "mutation_count": 36,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "neutral",
+        "accessory": "golden_crown",
+        "pattern": "gradient",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: stripes \u2192 gradient, background: city \u2192 mountains"
     }
   ]
 }

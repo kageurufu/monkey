@@ -1631,6 +1631,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: face_expression: neutral \u2192 curious, pattern: stars \u2192 swirls"
+    },
+    {
+      "timestamp": "2026-02-26T02:44:39.932917",
+      "dna_hash": "70bffc299c0fdf92",
+      "generation": 2,
+      "mutation_count": 42,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "curious",
+        "accessory": "diamond_chain",
+        "pattern": "swirls",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 diamond_chain"
     }
   ]
 }

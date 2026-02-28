@@ -1663,6 +1663,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: body_color: beige \u2192 tan"
+    },
+    {
+      "timestamp": "2026-02-28T02:31:47.650146",
+      "dna_hash": "5676f8b4012944a8",
+      "generation": 2,
+      "mutation_count": 45,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "golden_crown",
+        "pattern": "swirls",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: body_color: tan \u2192 brown, accessory: diamond_chain \u2192 golden_crown"
     }
   ]
 }

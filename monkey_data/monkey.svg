@@ -49,11 +49,17 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#708090"/>
-<polygon points="50,400 150,260 250,400" fill="#4A5568"/>
-<polygon points="180,400 280,220 380,400" fill="#2D3748"/>
-<polygon points="145,270 150,260 155,270" fill="white"/>
-<polygon points="275,230 280,220 285,230" fill="white"/>
+<rect width="400" height="400" fill="#1A4D1A"/>
+<polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,320" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,320" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,310" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,310" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,330" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,330" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,320" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,320" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>

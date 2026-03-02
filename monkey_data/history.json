@@ -1695,6 +1695,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: background: mountains \u2192 forest"
+    },
+    {
+      "timestamp": "2026-03-02T02:45:56.811187",
+      "dna_hash": "2861530cf7bb7348",
+      "generation": 2,
+      "mutation_count": 47,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "jetpack",
+        "pattern": "swirls",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 jetpack"
     }
   ]
 }

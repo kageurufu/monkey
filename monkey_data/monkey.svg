@@ -63,19 +63,15 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0522D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="229" y="207" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="183" y="139" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="137" y="221" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="241" y="153" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="195" y="235" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="149" y="167" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="253" y="249" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="178" y="174" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="231" y="223" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="134" y="272" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="187" y="171" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="240" y="220" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="143" y="269" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="196" y="168" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="162" cy="185" r="12" fill="#3D2314"/>
-<circle cx="162" cy="185" r="6" fill="#000"/>
-<circle cx="166" cy="181" r="4" fill="white"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="238" cy="185" r="12" fill="#3D2314"/>
-<circle cx="238" cy="185" r="6" fill="#000"/>
-<circle cx="242" cy="181" r="4" fill="white"/>
+<ellipse cx="162" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="162" cy="187" rx="10" ry="5" fill="#3D2314"/>
+<ellipse cx="238" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="238" cy="187" rx="10" ry="5" fill="#3D2314"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>

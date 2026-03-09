@@ -1807,6 +1807,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: face_expression: curious \u2192 sleepy"
+    },
+    {
+      "timestamp": "2026-03-09T02:49:39.670618",
+      "dna_hash": "740ebed3709c1aa8",
+      "generation": 2,
+      "mutation_count": 52,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "sleepy",
+        "accessory": "golden_crown",
+        "pattern": "diamonds",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 golden_crown"
     }
   ]
 }

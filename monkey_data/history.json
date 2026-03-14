@@ -1887,6 +1887,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: background: mountains \u2192 forest"
+    },
+    {
+      "timestamp": "2026-03-14T02:42:26.622216",
+      "dna_hash": "25e01a3e5c998fc0",
+      "generation": 2,
+      "mutation_count": 56,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "cool",
+        "accessory": "golden_crown",
+        "pattern": "diamonds",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: neutral \u2192 cool"
     }
   ]
 }

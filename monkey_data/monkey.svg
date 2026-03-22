@@ -63,7 +63,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0522D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="244" y="252" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="213" y="229" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="182" y="206" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="151" y="183" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="270" y="160" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="239" y="137" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="208" y="264" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="214" y="162" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="153" y="199" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="242" y="236" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="181" y="273" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="270" y="160" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="209" y="197" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="148" y="234" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -82,9 +82,7 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<path d="M178 265 Q200 260 225 252" stroke="#5D2E0C" stroke-width="3" fill="none"/>
-<line x1="150" y1="155" x2="174" y2="161" stroke="#5D2E0C" stroke-width="3"/>
-<line x1="226" y1="161" x2="250" y2="155" stroke="#5D2E0C" stroke-width="3"/>
+<path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
 <polygon points="155,70 170,35 190,60 210,35 230,60 245,35 245,85 155,85" fill="#FFD700" stroke="#B8860B" stroke-width="3"/><circle cx="200" cy="45" r="8" fill="#E74C3C"/><circle cx="175" cy="55" r="5" fill="#3498DB"/><circle cx="225" cy="55" r="5" fill="#2ECC71"/>
 
 <g transform="translate(325, 15)">

@@ -2015,6 +2015,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-03-22T02:54:47.270837",
+      "dna_hash": "7f0b1f876758e0f4",
+      "generation": 2,
+      "mutation_count": 61,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "happy",
+        "accessory": "golden_crown",
+        "pattern": "diamonds",
+        "background": "mountains",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: cool \u2192 happy"
     }
   ]
 }

@@ -49,11 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#708090"/>
-<polygon points="50,400 150,260 250,400" fill="#4A5568"/>
-<polygon points="180,400 280,220 380,400" fill="#2D3748"/>
-<polygon points="145,270 150,260 155,270" fill="white"/>
-<polygon points="275,230 280,220 285,230" fill="white"/>
+<rect width="400" height="400" fill="url(#sky-gradient)"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -63,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0522D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="214" y="162" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="153" y="199" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="242" y="236" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="181" y="273" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="270" y="160" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="209" y="197" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="148" y="234" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="199" y="267" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="273" y="259" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="197" y="251" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="271" y="243" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="195" y="235" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="269" y="227" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="193" y="219" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>

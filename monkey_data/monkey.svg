@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0522D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="255" y="235" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="230" y="190" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="205" y="145" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="180" y="260" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="155" y="215" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="130" y="170" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="265" y="125" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="180" y="190" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="235" y="255" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="140" y="170" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="195" y="235" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="250" y="150" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="155" y="215" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="210" y="130" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>

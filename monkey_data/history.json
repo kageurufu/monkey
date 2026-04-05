@@ -2239,6 +2239,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 horns"
+    },
+    {
+      "timestamp": "2026-04-05T03:26:40.529924",
+      "dna_hash": "c0d9a14adf6deb46",
+      "generation": 2,
+      "mutation_count": 70,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "sleepy",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: happy \u2192 sleepy"
     }
   ]
 }

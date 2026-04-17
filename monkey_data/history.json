@@ -2431,6 +2431,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-04-17T03:31:47.591504",
+      "dna_hash": "92e0c43be9530d5f",
+      "generation": 2,
+      "mutation_count": 79,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "laser_eyes",
+        "pattern": "diamonds",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: happy \u2192 curious"
     }
   ]
 }

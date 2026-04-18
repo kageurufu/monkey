@@ -2447,6 +2447,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: happy \u2192 curious"
+    },
+    {
+      "timestamp": "2026-04-18T03:19:33.445820",
+      "dna_hash": "d2ad23ec1c1a642e",
+      "generation": 2,
+      "mutation_count": 82,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: accessory: laser_eyes \u2192 horns, background: beach \u2192 city"
     }
   ]
 }

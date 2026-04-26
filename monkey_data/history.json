@@ -2575,6 +2575,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: brown \u2192 gray, pattern: stars \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-04-26T03:44:09.791113",
+      "dna_hash": "f261550ad48b7491",
+      "generation": 2,
+      "mutation_count": 85,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "hearts",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

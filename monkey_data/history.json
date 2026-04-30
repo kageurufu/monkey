@@ -2639,6 +2639,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: gray \u2192 brown"
+    },
+    {
+      "timestamp": "2026-04-30T03:51:29.977423",
+      "dna_hash": "a161869b93d45a98",
+      "generation": 2,
+      "mutation_count": 87,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "hearts",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

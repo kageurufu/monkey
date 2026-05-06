@@ -81,7 +81,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
-<path d="M100 200 Q50 120 20 220 Q60 210 100 230" fill="#E6E6FA" opacity="0.8"/><path d="M300 200 Q350 120 380 220 Q340 210 300 230" fill="#E6E6FA" opacity="0.8"/>
+<rect x="150" y="260" width="20" height="50" rx="5" fill="#555"/><rect x="230" y="260" width="20" height="50" rx="5" fill="#555"/><ellipse cx="160" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/><ellipse cx="240" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

@@ -62,7 +62,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#808080" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0A0A0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="155" cy="155" r="12" fill="#000" opacity="0.12"/><circle cx="200" cy="200" r="12" fill="#000" opacity="0.12"/><circle cx="245" cy="245" r="12" fill="#000" opacity="0.12"/><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="155" cy="155" r="12" fill="#000" opacity="0.12"/><circle cx="200" cy="200" r="12" fill="#000" opacity="0.12"/><circle cx="245" cy="245" r="12" fill="#000" opacity="0.12"/><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="155" cy="155" r="12" fill="#000" opacity="0.12"/></g>
+<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="124" cy="132" r="12" fill="#000" opacity="0.12"/><circle cx="138" cy="154" r="12" fill="#000" opacity="0.12"/><circle cx="152" cy="176" r="12" fill="#000" opacity="0.12"/><circle cx="166" cy="198" r="12" fill="#000" opacity="0.12"/><circle cx="180" cy="220" r="12" fill="#000" opacity="0.12"/><circle cx="194" cy="242" r="12" fill="#000" opacity="0.12"/><circle cx="208" cy="264" r="12" fill="#000" opacity="0.12"/><circle cx="222" cy="286" r="12" fill="#000" opacity="0.12"/><circle cx="236" cy="128" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -81,7 +81,7 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
+<line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
 <rect x="150" y="260" width="20" height="50" rx="5" fill="#555"/><rect x="230" y="260" width="20" height="50" rx="5" fill="#555"/><ellipse cx="160" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/><ellipse cx="240" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/>
 
 <g transform="translate(325, 15)">

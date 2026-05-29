@@ -63,7 +63,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0522D" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="208" y="272" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="136" y="264" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="224" y="256" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="152" y="248" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="240" y="240" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="168" y="232" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="256" y="224" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="155" y="215" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="185" y="155" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="215" y="245" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="245" y="185" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="155" y="215" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="185" y="155" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -83,7 +83,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<rect x="150" y="260" width="20" height="50" rx="5" fill="#555"/><rect x="230" y="260" width="20" height="50" rx="5" fill="#555"/><ellipse cx="160" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/><ellipse cx="240" cy="320" rx="8" ry="15" fill="#FF4500" opacity="0.8"/>
+<path d="M100 200 Q50 120 20 220 Q60 210 100 230" fill="#E6E6FA" opacity="0.8"/><path d="M300 200 Q350 120 380 220 Q340 210 300 230" fill="#E6E6FA" opacity="0.8"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

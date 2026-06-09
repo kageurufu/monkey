@@ -3279,6 +3279,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: gray \u2192 beige"
+    },
+    {
+      "timestamp": "2026-06-09T04:13:20.397850",
+      "dna_hash": "23e7bb7217821a86",
+      "generation": 2,
+      "mutation_count": 113,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "curious",
+        "accessory": "wings",
+        "pattern": "diamonds",
+        "background": "mountains",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 wings"
     }
   ]
 }

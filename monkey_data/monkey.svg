@@ -52,14 +52,14 @@
 <rect width="400" height="400" fill="#1A4D1A"/>
 <polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,305" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,305" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,310" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,310" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="280,380 260,380 280,315" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="280,380 300,380 280,315" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,320" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,320" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,328" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,328" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,326" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,326" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,324" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,324" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,322" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,322" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -69,19 +69,15 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFF0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="190" y="270" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="255" y="265" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="170" y="260" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="235" y="255" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="150" y="250" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="215" y="245" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="130" y="240" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="267" y="211" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="259" y="147" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="251" y="233" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="243" y="169" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="235" y="255" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="227" y="191" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="219" y="127" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
 <ellipse cx="238" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
-<ellipse cx="162" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="162" cy="185" r="12" fill="#3D2314"/>
-<circle cx="162" cy="185" r="6" fill="#000"/>
-<circle cx="166" cy="181" r="4" fill="white"/>
-<ellipse cx="238" cy="185" rx="18" ry="20" fill="white"/>
-<circle cx="238" cy="185" r="12" fill="#3D2314"/>
-<circle cx="238" cy="185" r="6" fill="#000"/>
-<circle cx="242" cy="181" r="4" fill="white"/>
+<ellipse cx="162" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="162" cy="187" rx="10" ry="5" fill="#3D2314"/>
+<ellipse cx="238" cy="185" rx="18" ry="8" fill="white"/>
+<ellipse cx="238" cy="187" rx="10" ry="5" fill="#3D2314"/>
 <g>
             <ellipse cx="200" cy="230" rx="25" ry="18" fill="#8B4513"/>
             <ellipse cx="200" cy="230" rx="22" ry="15" fill="#A0522D"/>

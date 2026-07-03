@@ -3663,6 +3663,22 @@
         "special": "shadow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-03T03:56:55.237281",
+      "dna_hash": "af9f4fd1b13965f2",
+      "generation": 2,
+      "mutation_count": 121,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "sleepy",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 horns"
     }
   ]
 }

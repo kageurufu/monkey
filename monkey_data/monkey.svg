@@ -52,14 +52,14 @@
 <rect width="400" height="400" fill="#1A4D1A"/>
 <polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,328" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,328" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,326" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,326" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="280,380 260,380 280,324" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="280,380 300,380 280,324" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,322" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,322" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,323" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,323" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,316" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,316" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,309" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,309" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,302" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,302" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -69,7 +69,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFF0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="267" y="211" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="259" y="147" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="251" y="233" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="243" y="169" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="235" y="255" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="227" y="191" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="219" y="127" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="202" y="216" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="129" y="157" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="206" y="248" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="133" y="189" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="210" y="130" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="137" y="221" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="214" y="162" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -85,7 +85,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<path d="M120 280 Q200 300 280 280" stroke="#C0C0C0" stroke-width="4" fill="none"/><polygon points="200,285 212,300 200,315 188,300" fill="#00CED1" stroke="#87CEEB" stroke-width="2"/>
+<path d="M140 110 Q120 50 150 40" stroke="#8B0000" stroke-width="12" fill="none" stroke-linecap="round"/><path d="M260 110 Q280 50 250 40" stroke="#8B0000" stroke-width="12" fill="none" stroke-linecap="round"/>
 <ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

@@ -3679,6 +3679,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 horns"
+    },
+    {
+      "timestamp": "2026-07-04T03:50:24.551194",
+      "dna_hash": "f3ffdd7da1a0d384",
+      "generation": 2,
+      "mutation_count": 123,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: body_color: beige \u2192 tan, face_expression: sleepy \u2192 curious"
     }
   ]
 }

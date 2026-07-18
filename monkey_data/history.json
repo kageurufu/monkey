@@ -3903,6 +3903,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: hearts \u2192 swirls"
+    },
+    {
+      "timestamp": "2026-07-18T03:14:28.719647",
+      "dna_hash": "dfa026f1cd89c200",
+      "generation": 2,
+      "mutation_count": 129,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "swirls",
+        "background": "sunset",
+        "special": "glow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

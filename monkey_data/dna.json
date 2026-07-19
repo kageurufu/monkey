@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "853a2d944a0cdb2d",
-  "dna_hash": "dfa026f1cd89c200",
-  "mutation_count": 129,
+  "dna_hash": "74e00da5a3c8dc24",
+  "mutation_count": 130,
   "birth_timestamp": 420687,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "7d0bf056"
     },
     "accessory": {
-      "value": "horns",
+      "value": "laser_eyes",
       "rarity": "rare",
-      "gene_sequence": "f9a6847e"
+      "gene_sequence": "3c1d8885"
     },
     "pattern": {
       "value": "swirls",

@@ -79,7 +79,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<path d="M140 110 Q120 50 150 40" stroke="#8B0000" stroke-width="12" fill="none" stroke-linecap="round"/><path d="M260 110 Q280 50 250 40" stroke="#8B0000" stroke-width="12" fill="none" stroke-linecap="round"/>
+<line x1="162" y1="185" x2="50" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/><line x1="238" y1="185" x2="350" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/>
 <circle cx="200" cy="200" r="135" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.25"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

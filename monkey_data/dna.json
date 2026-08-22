@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "853a2d944a0cdb2d",
-  "dna_hash": "21d7827bef50f882",
-  "mutation_count": 145,
+  "dna_hash": "f31263564fce760d",
+  "mutation_count": 146,
   "birth_timestamp": 420687,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "374db983"
     },
     "accessory": {
-      "value": "laser_eyes",
-      "rarity": "rare",
-      "gene_sequence": "3c1d8885"
+      "value": "wings",
+      "rarity": "legendary",
+      "gene_sequence": "b6b9711d"
     },
     "pattern": {
       "value": "stars",
@@ -36,5 +36,5 @@
       "gene_sequence": "18ebc4a5"
     }
   },
-  "rarity_score": 28.333333333333332
+  "rarity_score": 36.666666666666664
 }

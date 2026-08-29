@@ -4575,6 +4575,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: body_color: silver \u2192 bronze"
+    },
+    {
+      "timestamp": "2026-08-29T06:50:01.744845",
+      "dna_hash": "b214b28ce3610848",
+      "generation": 2,
+      "mutation_count": 149,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "neutral",
+        "accessory": "jetpack",
+        "pattern": "stars",
+        "background": "mountains",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: background: space \u2192 mountains"
     }
   ]
 }

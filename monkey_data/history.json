@@ -4783,6 +4783,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: accessory: jetpack \u2192 diamond_chain, pattern: swirls \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-09-11T04:17:17.047208",
+      "dna_hash": "22c4c7d93368c670",
+      "generation": 2,
+      "mutation_count": 157,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "sleepy",
+        "accessory": "diamond_chain",
+        "pattern": "hearts",
+        "background": "mountains",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

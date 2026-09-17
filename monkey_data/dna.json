@@ -1,14 +1,14 @@
 {
   "generation": 2,
   "parent_id": "853a2d944a0cdb2d",
-  "dna_hash": "b56d1cd230c65daa",
-  "mutation_count": 158,
+  "dna_hash": "4948d9ce7c564bcb",
+  "mutation_count": 159,
   "birth_timestamp": 420687,
   "traits": {
     "body_color": {
-      "value": "green",
+      "value": "blue",
       "rarity": "rare",
-      "gene_sequence": "bd474567"
+      "gene_sequence": "91b18de0"
     },
     "face_expression": {
       "value": "sleepy",

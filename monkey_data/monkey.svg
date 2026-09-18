@@ -49,11 +49,10 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#708090"/>
-<polygon points="50,400 150,260 250,400" fill="#4A5568"/>
-<polygon points="180,400 280,220 380,400" fill="#2D3748"/>
-<polygon points="145,270 150,260 155,270" fill="white"/>
-<polygon points="275,230 280,220 285,230" fill="white"/>
+<rect width="400" height="400" fill="#F0E68C"/>
+<path d="M0 350 Q100 338 200 350 T400 350" fill="#4169E1" opacity="0.25"/>
+<path d="M0 365 Q100 353 200 365 T400 365" fill="#4169E1" opacity="0.19"/>
+<path d="M0 380 Q100 368 200 380 T400 380" fill="#4169E1" opacity="0.13"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#4169E1" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -63,7 +62,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#4169E1" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#6B8BF5" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="152" y="164" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="174" y="198" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="196" y="232" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="218" y="266" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="240" y="160" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="262" y="194" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
+<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="253" y="161" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="236" y="192" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="219" y="223" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="202" y="254" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="185" y="145" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="168" y="176" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>

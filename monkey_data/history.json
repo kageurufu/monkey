@@ -5007,6 +5007,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: pattern: hearts \u2192 nebula"
+    },
+    {
+      "timestamp": "2026-09-25T04:36:14.041100",
+      "dna_hash": "5285c9eafba7484c",
+      "generation": 2,
+      "mutation_count": 161,
+      "rarity_score": 41.66666666666667,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "sleepy",
+        "accessory": "diamond_chain",
+        "pattern": "nebula",
+        "background": "beach",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

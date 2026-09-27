@@ -53,7 +53,7 @@
 <path d="M0 350 Q100 338 200 350 T400 350" fill="#4169E1" opacity="0.25"/>
 <path d="M0 365 Q100 353 200 365 T400 365" fill="#4169E1" opacity="0.19"/>
 <path d="M0 380 Q100 368 200 380 T400 380" fill="#4169E1" opacity="0.13"/>
-
+<circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="3" opacity="0.25" stroke-dasharray="20,10"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#4169E1" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
@@ -79,7 +79,7 @@
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
 <path d="M120 280 Q200 300 280 280" stroke="#C0C0C0" stroke-width="4" fill="none"/><polygon points="200,285 212,300 200,315 188,300" fill="#00CED1" stroke="#87CEEB" stroke-width="2"/>
-<ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
+
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>

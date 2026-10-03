@@ -5135,6 +5135,22 @@
         "special": "energy"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-03T04:59:55.525406",
+      "dna_hash": "8d46d74a1b02382a",
+      "generation": 2,
+      "mutation_count": 166,
+      "rarity_score": 46.666666666666664,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "diamond_chain",
+        "pattern": "fractals",
+        "background": "beach",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

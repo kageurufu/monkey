@@ -5199,6 +5199,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 golden_crown"
+    },
+    {
+      "timestamp": "2026-10-07T05:35:19.852243",
+      "dna_hash": "41359d7bda709b3b",
+      "generation": 2,
+      "mutation_count": 169,
+      "rarity_score": 51.66666666666667,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "golden_crown",
+        "pattern": "nebula",
+        "background": "volcano",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: pattern: fractals \u2192 nebula, background: beach \u2192 volcano"
     }
   ]
 }

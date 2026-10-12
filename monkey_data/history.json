@@ -5279,6 +5279,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: pattern: nebula \u2192 quantum"
+    },
+    {
+      "timestamp": "2026-10-12T05:36:55.243574",
+      "dna_hash": "75bd0d94a6571657",
+      "generation": 2,
+      "mutation_count": 173,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "golden_crown",
+        "pattern": "quantum",
+        "background": "underwater",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

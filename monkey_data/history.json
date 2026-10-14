@@ -5311,6 +5311,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 wings"
+    },
+    {
+      "timestamp": "2026-10-14T04:34:13.080557",
+      "dna_hash": "38f8c31d8c7e0866",
+      "generation": 2,
+      "mutation_count": 174,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "quantum",
+        "background": "underwater",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

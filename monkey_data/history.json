@@ -5391,6 +5391,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: special: energy \u2192 shadow"
+    },
+    {
+      "timestamp": "2026-10-19T04:19:13.784695",
+      "dna_hash": "88b992df8ac98498",
+      "generation": 2,
+      "mutation_count": 177,
+      "rarity_score": 58.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "quantum",
+        "background": "mountains",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: body_color: green \u2192 rainbow, background: underwater \u2192 mountains"
     }
   ]
 }

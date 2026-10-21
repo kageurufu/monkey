@@ -5423,6 +5423,22 @@
         "special": "shadow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-21T04:22:10.318299",
+      "dna_hash": "44a038cf4b893e87",
+      "generation": 2,
+      "mutation_count": 178,
+      "rarity_score": 58.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "curious",
+        "accessory": "wings",
+        "pattern": "quantum",
+        "background": "mountains",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: sleepy \u2192 curious"
     }
   ]
 }

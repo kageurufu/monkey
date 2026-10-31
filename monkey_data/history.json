@@ -5583,6 +5583,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: background: mountains \u2192 white"
+    },
+    {
+      "timestamp": "2026-10-31T05:11:27.674418",
+      "dna_hash": "74ecbad0a17db7f2",
+      "generation": 2,
+      "mutation_count": 181,
+      "rarity_score": 56.666666666666664,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "sleepy",
+        "accessory": "diamond_chain",
+        "pattern": "quantum",
+        "background": "white",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: wings \u2192 diamond_chain"
     }
   ]
 }

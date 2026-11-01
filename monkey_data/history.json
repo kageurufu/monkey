@@ -5599,6 +5599,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: accessory: wings \u2192 diamond_chain"
+    },
+    {
+      "timestamp": "2026-11-01T05:41:22.227434",
+      "dna_hash": "5de16435a381fe51",
+      "generation": 2,
+      "mutation_count": 182,
+      "rarity_score": 56.666666666666664,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "sleepy",
+        "accessory": "diamond_chain",
+        "pattern": "cosmic_dust",
+        "background": "white",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: quantum \u2192 cosmic_dust"
     }
   ]
 }

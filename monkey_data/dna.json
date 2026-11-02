@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "853a2d944a0cdb2d",
-  "dna_hash": "5de16435a381fe51",
-  "mutation_count": 182,
+  "dna_hash": "c0bb55c0d39a34e9",
+  "mutation_count": 184,
   "birth_timestamp": 420687,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "399185f3"
     },
     "accessory": {
-      "value": "diamond_chain",
+      "value": "wings",
       "rarity": "legendary",
-      "gene_sequence": "db9cd265"
+      "gene_sequence": "b6b9711d"
     },
     "pattern": {
       "value": "cosmic_dust",
@@ -31,10 +31,10 @@
       "gene_sequence": "b91761d7"
     },
     "special": {
-      "value": "shadow",
-      "rarity": "uncommon",
-      "gene_sequence": "db06738c"
+      "value": "energy",
+      "rarity": "rare",
+      "gene_sequence": "adb72200"
     }
   },
-  "rarity_score": 56.666666666666664
+  "rarity_score": 61.66666666666667
 }

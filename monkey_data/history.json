@@ -5647,6 +5647,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: background: white \u2192 blue_sky"
+    },
+    {
+      "timestamp": "2026-11-04T05:54:38.568180",
+      "dna_hash": "dc1b0ca5eccf90f2",
+      "generation": 2,
+      "mutation_count": 185,
+      "rarity_score": 61.66666666666667,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "sleepy",
+        "accessory": "wings",
+        "pattern": "cosmic_dust",
+        "background": "blue_sky",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }

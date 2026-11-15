@@ -5823,6 +5823,22 @@
         "special": "energy"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-15T06:00:16.090022",
+      "dna_hash": "a2998209db347645",
+      "generation": 2,
+      "mutation_count": 190,
+      "rarity_score": 61.66666666666667,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "golden_crown",
+        "pattern": "cosmic_dust",
+        "background": "white",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 golden_crown"
     }
   ]
 }

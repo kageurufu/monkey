@@ -5855,6 +5855,22 @@
         "special": "energy"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-17T07:37:44.689503",
+      "dna_hash": "de4a9d806c39b843",
+      "generation": 2,
+      "mutation_count": 191,
+      "rarity_score": 61.66666666666667,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "golden_crown",
+        "pattern": "cosmic_dust",
+        "background": "white",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: special: energy \u2192 aura"
     }
   ]
 }

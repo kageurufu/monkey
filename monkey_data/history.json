@@ -5871,6 +5871,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: special: energy \u2192 aura"
+    },
+    {
+      "timestamp": "2026-11-18T06:59:41.277968",
+      "dna_hash": "818e184302395574",
+      "generation": 2,
+      "mutation_count": 192,
+      "rarity_score": 61.66666666666667,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "golden_crown",
+        "pattern": "cosmic_dust",
+        "background": "sunset",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: background: white \u2192 sunset"
     }
   ]
 }

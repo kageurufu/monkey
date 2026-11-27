@@ -6015,6 +6015,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: body_color: holographic \u2192 galaxy"
+    },
+    {
+      "timestamp": "2026-11-27T07:56:43.405221",
+      "dna_hash": "e2bb59096a2d255a",
+      "generation": 2,
+      "mutation_count": 201,
+      "rarity_score": 53.333333333333336,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "horns",
+        "pattern": "quantum",
+        "background": "sunset",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: accessory: golden_crown \u2192 horns"
     }
   ]
 }
